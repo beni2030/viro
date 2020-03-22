@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 cd $HOME/botchi
-token="392618368:AAHD4QArGljOmNOba3uHAwYE7xB7xt_uMx0"
+token="193402574:AAH2zjtK3NaIB6JtMVPBZ91F8CWPWw66Nrw"
 function print_logo() {
 	echo -e "\033[38;5;600m"
 	echo -e "          TabLiqGar"
